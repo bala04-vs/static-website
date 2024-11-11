@@ -1,0 +1,128 @@
+.body {
+  background-image: url("./assests/images/beautiful-frame-with-paint-splashes.jpg");
+  background-size: cover;
+  height: 100vh;
+  width: 100wh;
+}
+
+.ulist {
+  list-style-type: none;
+  margin: px;
+  padding: 0px;
+  overflow: hidden;
+
+  
+ 
+}
+.list{
+  float:left;
+}
+
+.lista {
+  list-style-type: none;
+    display: block;
+  font-size:35px;
+  color:rgb(186, 206, 10);
+  text-align: right;
+  padding:16px;
+  margin-right:50px;
+  float:left;
+}
+li a:hover {
+  background-color: #111111;
+}
+
+.main-heading2 {
+  font-size: 50px;
+  font-family: "Sofia", sans-serif;
+  color: transparent;
+  text-align: center;
+
+  animation: effect 1s linear infinite;
+}
+
+@keyframes effect {
+  0% {
+    background: linear-gradient(#e2cc02, #d37810);
+    -webkit-background-clip: text;
+  }
+
+  100% {
+    background: linear-gradient(#716804, #cfda2b);
+    -webkit-background-clip: text;
+  }
+}
+.h1 {
+  text-align: left;
+  font-size: 25px;
+  
+  color: #c7ae2e;
+  padding:30px;
+}
+.video {
+  text-align: left;
+  font-family:Arial, Helvetica, sans-serif;
+  height: 400px;
+  width: 350px;
+  margin-bottom: 0px;
+}
+
+.bg-image {
+  background-image: url("https://img.freepik.com/free-photo/beautiful-frame-with-paint-splashes_24972-1812.jpg?t=st=1730484208~exp=1730487808~hmac=9fa18c175f369e1077385cfb0105033056beb95fd0737fcc26027bd7b4504ff5&w=996");
+}
+.video1 {
+  text-align: center;
+  height: 400px;
+  width: 350px;
+  padding-left: 250px;
+  margin-right: 100px;
+}
+.video2 {
+  text-align: right;
+  height: 400px;
+  width: 350px;
+  padding-left: 70px;
+  
+}
+.span{
+  color:#cfda2b;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:20px;
+  padding:10px;
+ 
+
+}
+.span1{
+  color:#cfda2b;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:20px;
+  padding:0px;
+  text-align:left;
+ 
+
+}
+.span3{
+  color:#cfda2b;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:15px;
+  padding:0px;
+  
+ 
+
+}
+.button{
+  background-color: #c7ae2e;
+  border-radius: 10px;
+  font-size: 20px;
+  text-align: center;
+  margin:100px
+}
+.h4 {
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:#cfda2b;
+  
+ 
+}
+ 

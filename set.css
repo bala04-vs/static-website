@@ -1,0 +1,101 @@
+.body{
+    background-image: url(../mainproject.html/assests/images/beautiful-frame-with-paint-splashes.jpg);
+    background-size: cover;
+    height:100vh;
+    width:100wh;
+  
+    }
+  .int {
+    
+    border-radius: 2vh;
+    padding:1vh;
+    font-family: 'Times New Roman', Times, ;
+  
+  
+  
+  
+  
+  
+  
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  .form{
+     text-align: center;
+     margin: 250px;
+     color:yellow;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+     width:"100vw";
+     }
+      .submit{
+        border-width: 0;
+        background-color: rgba(226, 226, 67, 0.918);
+       border-radius: 10vh;
+       border-style: dashed;
+       padding: 1vh 5vh;
+       font-family: 'Times New Roman', Times, serif;
+       font-size:3vh;
+       
+  
+      }
+     .submit{
+        border-radius:1vh;
+        padding:vh 3vh;
+        font-family: 'Times New Roman', Times, serif;
+        background-color: rgb(225, 225, 76);
+        
+  
+     }
+     .field{
+       width:20wh;
+        height:75vh;
+       padding-top: 1vh;
+      padding-right: 10vh;
+      padding-left:10vh;
+      border-color: #cfda2b;
+      border-radius: 10vh;
+      background-color: rgba(0, 0, 0, 0.578);
+      margin-top: 50vh;
+  
+  
+  
+     }
+     .legend {
+  font-size: 50px;
+  font-family: "Sofia", sans-serif;
+  color: transparent;
+  text-align: center;
+  
+  animation: effect 1s linear infinite;
+  }
+  
+  @keyframes effect {
+  0% {
+    background: linear-gradient(#e2cc02, #d37810);
+    -webkit-background-clip: text;
+  }
+  
+  100% {
+    background: linear-gradient(#716804, #cfda2b);
+    -webkit-background-clip: text;
+  }
+  
+  
+  }
+  .field1{
+    width:5wh;
+     height:55vh;
+    padding-top: 5vh;
+   padding-right: 10vh;
+   padding-left:10vh;
+   border-color: #cfda2b;
+   border-radius: 10vh;
+   background-color: rgba(0, 0, 0, 0.578);
+   margin-top: 50vh;
+  }
